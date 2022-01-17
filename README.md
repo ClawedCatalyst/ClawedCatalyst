@@ -7,7 +7,8 @@
 <a href="">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
- <a href="https://leetcode.com/suhaillahmad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_ansuman_behera_/" height="30" width="40" /></a>
+ <a href="https://leetcode.com/suhaillahmad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_ansuman_behera_/" height="30" width="40" />
+</a>
 <a href="https://discord.gg/Qph4G7qG">
     <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
   </a>
