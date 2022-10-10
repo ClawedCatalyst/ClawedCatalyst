@@ -1,7 +1,7 @@
 Hi 👋 My name is Suhail Ahmad
 =============================
 
-Web Developer and Designer
+Web Developer
 --------------------------
 
 * 🌍  I'm based in Delhi, India
