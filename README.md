@@ -4,7 +4,7 @@ Hi 👋 My name is Suhail Ahmad
 Web Developer
 --------------------------
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=archiehere&label=Profile%20views&color=0e75b6&style=flat" alt="archiehere" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suhaillahmad&label=Profile%20views&color=0e75b6&style=flat" alt="suhaillahmad" /> </p>
 
 
 ### Socials
