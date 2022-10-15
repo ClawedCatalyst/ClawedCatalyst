@@ -4,10 +4,7 @@ Hi 👋 My name is Suhail Ahmad
 Web Developer
 --------------------------
 
-* 🌍  I'm based in Delhi, India
-* ✉️  You can contact me at [suhaillahmadd0@gmail.com](mailto:suhaillahmadd0@gmail.com)
-* 🧠  I'm learning Backend Web Development
-* 🤝  I'm open to collaborating on interesting Projects
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=archiehere&label=Profile%20views&color=0e75b6&style=flat" alt="archiehere" /> </p>
 
 
 ### Socials
