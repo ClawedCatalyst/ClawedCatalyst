@@ -1,4 +1,4 @@
-Hi 👋 My name is Suhail Ahmad
+Hi 👋 My name is Suhail
 =============================
 
 Web Developer
