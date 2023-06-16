@@ -1,5 +1,5 @@
 <div align=center>
-        <img src="https://res-console.cloudinary.com/do16amngd/thumbnails/transform/v1/image/upload/cl8w/v1686942143/Y2xhd2VkY2F0YWx5c3Rfd3UzcnZw/template_primary" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="https://res.cloudinary.com/do16amngd/image/upload/v1686942024/clawedcatalyst_wu3rvp.png" alt="" height="200">
     </div>
     <div align=center>
 
