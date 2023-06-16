@@ -1,4 +1,6 @@
-Hi 👋 My name is Suhail
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Suhail+%F0%9F%91%8B;Back-End+Developer;Problem+Solver;Open-Source+Enthusiast" alt="Headline" />
+</div> 
 =============================
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
