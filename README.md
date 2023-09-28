@@ -79,7 +79,7 @@
 
 <div align="center">
   
-<h3> 📄  Please check out my <a href="https://drive.google.com/file/d/1XIo57bYO7pMq9EHzsHl6_SoU_XUT0LOY/view"> Resume </a> ❤️ for more information about my experience and skills.</h3>
+<h3> 📄  Please check out my <a href="https://drive.google.com/file/d/1h2K5ClodZoUzCrCJwE4hCHKtbP4wdb0x/view?usp=sharing"> Resume </a> ❤️ for more information about my experience and skills.</h3>
 
 </div>
 
