@@ -8,7 +8,7 @@ I build financial infrastructure across Web2 + Web3 — payments, crypto rails, 
 
 ## 🚀 Current Projects
 
-- **Blocrate** — Privacy-preserving credit infrastructure for crypto lending platforms (SDK for identity, credit data, and cross-lender credit passport).  
+- **Blocrate** — Privacy-preserving credit infrastructure for crypto lending platforms.  
   🌐 https://blocrate.com
   
 ## 🛠 Tech Stack
