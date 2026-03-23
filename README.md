@@ -9,7 +9,7 @@ I build financial infrastructure across Web2 + Web3 — payments, crypto rails, 
 ## 🚀 Current Projects
 
 - **Blocrate** — Privacy-preserving credit infrastructure for crypto lending platforms.[Blocrate](https://blocrate.com)
-- **Oracle** - On-chain intelligence, distilled. Connect your wallet. Ask anything. Understand everything.[Oracle](https://oracle-on-chain-intelligence.vercel.app)
+- **Oracle** - On-chain intelligence, distilled. Connect your wallet. Ask anything. Understand everything.[Oracle](https://www.oracleprotocol.online)
   
 ## 🛠 Tech Stack
 **Backend:** TypeScript, Node.js, Python, Django  
